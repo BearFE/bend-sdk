@@ -1,0 +1,16 @@
+.DS_Store
+dist
+node_modules/
+output/
+package-lock.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.bak
+*.swp
+*.swo
